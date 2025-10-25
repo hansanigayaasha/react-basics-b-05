@@ -76,7 +76,10 @@
     
 ## Step 16   : Do a file change
     
-## Step 16   : Check the file changes in VSCode
+## Step 17   : Check file changes in VSCode
+   
+## Step 18   : Check file changes in the terminal using
     ```bash 
-        git push -u origin main
+        git status
     ```
+
