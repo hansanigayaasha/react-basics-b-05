@@ -107,3 +107,25 @@
     ```bash 
         git push -u origin dev
     ```
+
+## Step 24   : Repeat step 08
+   
+## Step 25   : Create a PR(pull request from github and merge it to main)
+
+    ```bash 
+        # Navigate between branches
+            git checkout main
+
+            git checkout dev
+
+        # Check the changes/status between local and remote
+            git fetch
+
+        # Checkout to main branch
+            git checkout main
+
+        # Pull the changes to local from remote main branch
+            git pull
+
+            git checkout
+    ```
