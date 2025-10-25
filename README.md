@@ -128,4 +128,20 @@
             git pull
 
             git checkout
+
+        # Stash changes temporary
+            git stash
+
+        # Apply stashed changes back
+            git stash apply
+
+        # Merge changes in dev to main
+
+            git checkout main
+
+            git merge dev
+
+            git status
+
+            git push
     ```
